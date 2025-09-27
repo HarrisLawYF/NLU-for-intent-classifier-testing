@@ -1,0 +1,362 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "input": "What did I spend money on recently?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "input": "How much did I blow last month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "input": "Can you give me the lowdown on my finances?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "input": "What's the latest with Apple's money situation?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "input": "How's the market looking today?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "input": "Did my stocks do well this quarter?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
+    "input": "Just give me a quick look at my bank account.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-bcdef1234567",
+    "input": "What's the financial buzz right now?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-cdef12345678",
+    "input": "Is Google making money?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-def123456789",
+    "input": "What's on my credit card statement?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-ef1234567890",
+    "input": "Can you tell me about my recent spending habits?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-f12345678901",
+    "input": "How much cash do I have left?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "What's the general financial situation of my household?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "Any big news from the financial world today?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "How are my investments doing overall?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "Just a quick update on my bank balance.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "What's the word on the street about the economy?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Is my budget holding up?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "Tell me about my recent transactions.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "How much did I earn last month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "What's the summary of my current financial standing?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "Any major financial headlines today?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "How are my stocks doing?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "Can I get a quick summary of my credit score?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "What's the general outlook for the economy?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "Give me a summary of my recent deposits.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "How much money is in my savings account?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "What's the latest on the housing market?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "Did I overspend this month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "Tell me about my investment gains.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "What's the summary of my current debt?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "How much money do I have across all accounts?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "Any news on inflation?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "What's the general trend for my spending?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "Give me a quick financial update.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "How much did I pay in bills last month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "What's the summary of my investment losses?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "Is the economy doing well?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Tell me about my budget performance.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "What's the summary of my income sources?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "How much money is in my checking account?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "What's the latest on the stock market?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "Did I stick to my budget this month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "Tell me about my investment returns.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "What's the summary of my financial goals?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "How much money do I owe?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "What's the general financial outlook?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Give me a summary of my recent payments.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "How much money is in my retirement fund?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "What's the summary of my investment portfolio?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "Any news on the economy?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "How are my mutual funds performing?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "What's the summary of my current financial situation?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "Give me a quick update on my finances.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "How much money did I spend on groceries last week?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "What's the summary of my investment gains?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "Is my spending in line with my budget?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "Tell me about my recent income.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "What's the summary of my current assets?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "How's the job market looking?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "Give me a summary of my investment losses.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "What's the summary of my current liabilities?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "Any updates on the global economy?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "How much money is in my investment account?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "What's the summary of my monthly expenses?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "Give me a quick summary of my financial health.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "How much money did I save last month?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "What's the summary of my investment performance this year?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Is my retirement plan on track?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "Tell me about my current financial obligations.",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "What's the summary of my investment portfolio's value?",
+    "intent": "summarize_finance"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "How much money do I have available to spend?",
+    "intent": "summarize_finance"
+  }
+]

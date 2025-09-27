@@ -1,0 +1,127 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "input": "What is the battery life of the new iPhone?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "input": "Does the Samsung Galaxy S24 have a headphone jack?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "input": "Tell me the screen resolution of the Dell XPS 15.",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "input": "How much RAM does the MacBook Pro have?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "input": "Is this shirt made of cotton?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "input": "Is this phone case compatible with wireless charging?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
+    "input": "What is the processor in the Google Pixel 8?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-bcdef1234567",
+    "input": "What are the dimensions of the Sony A7 IV camera?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-cdef12345678",
+    "input": "Is the screen on the LG C3 OLED a glossy or matte finish?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-def123456789",
+    "input": "How many megapixels is the main camera on the OnePlus 12?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-ef1234567890",
+    "input": "What type of wood is this table made from?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-f12345678901",
+    "input": "Does this jacket have a waterproof rating?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "What is the refresh rate of the Asus ROG Swift monitor?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "Is the keyboard on the Lenovo ThinkPad backlit?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "What's the total storage capacity of this refrigerator?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "Does the Nike Pegasus 40 have good arch support?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "What material is the cover of this notebook?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Is the Kindle Paperwhite screen e-ink?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "How much does the Samsonite carry-on luggage weigh?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "What is the wattage of this microwave?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "Does this car have a V6 engine?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "What is the thread count of these bed sheets?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "Is this watch water-resistant, and to what depth?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "What are the ingredients in this protein bar?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "Does this blender have a glass or plastic jar?",
+    "intent": "search_property"
+  }
+]

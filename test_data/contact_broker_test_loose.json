@@ -1,0 +1,372 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "input": "Can someone help me with this house?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "b2c3d4e5-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "input": "Who do I talk to about buying a place?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "c3d4e5f6-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "input": "I'm interested, what's the next step?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "input": "Just get me a person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "e5f6g7h8-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "input": "Send me the agent's info.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "f6g7h8i9-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+    "input": "I need a human to talk to.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "g7h8i9j0-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+    "input": "Is there anyone I can talk to about this?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "h8i9j0k1-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+    "input": "Help me get in touch with someone.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "i9j0k1l2-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+    "input": "I have some questions, who can I ask?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "j0k1l2m3-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "input": "What do I do now that I've found a house I like?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "k1l2m3n4-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+    "input": "Gimme the details for the person selling this.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "l2m3n4o5-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+    "input": "I'm lost, I need some guidance.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "m3n4o5p6-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+    "input": "Can you connect me to a real person?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "n4o5p6q7-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+    "input": "I wanna talk to a pro.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "o5p6q7r8-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+    "input": "Who's the contact for this property?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "p6q7r8s9-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+    "input": "I need to speak to a representative.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "q7r8s9t0-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+    "input": "How do I proceed with this?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "r8s9t0u1-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+    "input": "Hit me up with the agent's number.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "s9t0u1v2-3w4x-5y6z-7a8b-8b9c0d1e2f3g4h",
+    "input": "I'm not sure what to do next.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "t0u1v2w3-4x5y-6z7a-8b9c-9c0d1e2f3g4h5i",
+    "input": "Is there a human I can chat with?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "u1v2w3x4-5y6z-7a8b-9c0d-0d1e2f3g4h5i6j",
+    "input": "Just give me someone to talk to.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "v2w3x4y5-6z7a-8b9c-0d1e-1e2f3g4h5i6j7k",
+    "input": "I need more info, who can help?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "w3x4y5z6-7a8b-9c0d-1e2f-2f3g4h5i6j7k8l",
+    "input": "What are the next steps for buying?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "x4y5z6a7-8b9c-0d1e-2f3g-3g4h5i6j7k8l9m",
+    "input": "Can I get some assistance?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "y5z6a7b8-9c0d-1e2f-3g4h-4h5i6j7k8l9m0n",
+    "input": "I'm interested in this place, now what?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "z6a7b8c9-0d1e-2f3g-4h5i-5i6j7k8l9m0n1o",
+    "input": "Talk to a person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "a7b8c9d0-1e2f-3g4h-5i6j-6j7k8l9m0n1o2p",
+    "input": "I need to talk to a live person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "b8c9d0e1-2f3g-4h5i-6j7k-7k8l9m0n1o2p3q",
+    "input": "Who is the point of contact?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "c9d0e1f2-3g4h-5i6j-7k8l-8l9m0n1o2p3q4r",
+    "input": "I'm not a robot, are you? Get me a human.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "d0e1f2g3-4h5i-6j7k-8l9m-9m0n1o2p3q4r5s",
+    "input": "I need some help with this process.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "e1f2g3h4-5i6j-7k8l-9m0n-0n1o2p3q4r5s6t",
+    "input": "Can you pass me to a human?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "f2g3h4i5-6j7k-8l9m-0n1o-1o2p3q4r5s6t7u",
+    "input": "I'm stuck, can someone help?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "g3h4i5j6-7k8l-9m0n-1o2p-2p3q4r5s6t7u8v",
+    "input": "Who should I talk to about this listing?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "h4i5j6k7-8l9m-0n1o-2p3q-3q4r5s6t7u8v9w",
+    "input": "I'm trying to figure out what to do next.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "i5j6k7l8-9m0n-1o2p-3q4r-4r5s6t7u8v9w0x",
+    "input": "Let me talk to a real estate guy.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "j6k7l8m9-0n1o-2p3q-4r5s-5s6t7u8v9w0x1y",
+    "input": "I need a person to guide me.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "k7l8m9n0-1o2p-3q4r-5s6t-6t7u8v9w0x1y2z",
+    "input": "Who is in charge of this sale?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "l8m9n0o1-2p3q-4r5s-6t7u-7u8v9w0x1y2z3a",
+    "input": "I'm not sure who to contact.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "m9n0o1p2-3q4r-5s6t-7u8v-8v9w0x1y2z3a4b",
+    "input": "Can you get me some help?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "n0o1p2q3-4r5s-6t7u-8v9w-9w0x1y2z3a4b5c",
+    "input": "I need to speak with an actual person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "o1p2q3r4-5s6t-7u8v-9w0x-0x1y2z3a4b5c6d",
+    "input": "What's the procedure from here?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "p2q3r4s5-6t7u-8v9w-0x1y-1y2z3a4b5c6d7e",
+    "input": "I need a real estate expert.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "q3r4s5t6-7u8v-9w0x-1y2z-2z3a4b5c6d7e8f",
+    "input": "Who can I ask about this property?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "r4s5t6u7-8v9w-0x1y-2z3a-3a4b5c6d7e8f9g",
+    "input": "I'm ready to move forward, who do I talk to?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "s5t6u7v8-9w0x-1y2z-3a4b-4b5c6d7e8f9g0h",
+    "input": "Get me the contact for this listing.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "t6u7v8w9-0x1y-2z3a-4b5c-5c6d7e8f9g0h1i",
+    "input": "I need to talk to a human being.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "u7v8w9x0-1y2z-3a4b-5c6d-6d7e8f9g0h1i2j",
+    "input": "I'm confused, can you get me a person?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "v8w9x0y1-2z3a-4b5c-6d7e-7e8f9g0h1i2j3k",
+    "input": "Who is the responsible party for this?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "w9x0y1z2-3a4b-5c6d-7e8f-8f9g0h1i2j3k4l",
+    "input": "I need to speak to someone with knowledge about this.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "x0y1z2a3-4b5c-6d7e-8f9g-9g0h1i2j3k4l5m",
+    "input": "What's the next action I need to take?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "y1z2a3b4-5c6d-7e8f-9g0h-0h1i2j3k4l5m6n",
+    "input": "I'd like some personal assistance.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "z2a3b4c5-6d7e-8f9g-0h1i-1i2j3k4l5m6n7o",
+    "input": "Can you put me in touch with the right person?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "a3b4c5d6-7e8f-9g0h-1i2j-2j3k4l5m6n7o8p",
+    "input": "I need to talk to a professional.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "b4c5d6e7-8f9g-0h1i-2j3k-3k4l5m6n7o8p9q",
+    "input": "Who handles the sales for these properties?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "c5d6e7f8-9g0h-1i2j-3k4l-4l5m6n7o8p9q0r",
+    "input": "I'm not getting anywhere, I need a person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "d6e7f8g9-0h1i-2j3k-4l5m-5m6n7o8p9q0r1s",
+    "input": "I need to ask a person some questions.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "e7f8g9h0-1i2j-3k4l-5m6n-6n7o8p9q0r1s2t",
+    "input": "How do I get a hold of someone?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "f8g9h0i1-2j3k-4l5m-6n7o-7o8p9q0r1s2t3u",
+    "input": "I'm looking for some expert advice.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "g9h0i1j2-3k4l-5m6n-7o8p-8p9q0r1s2t3u4v",
+    "input": "Can you find someone for me to talk to?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "h0i1j2k3-4l5m-6n7o-8p9q-9q0r1s2t3u4v5w",
+    "input": "I need to take the next step, who do I contact?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "i1j2k3l4-5m6n-7o8p-9q0r-0r1s2t3u4v5w6x",
+    "input": "I want to talk to a human, not a bot.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "j2k3l4m5-6n7o-8p9q-0r1s-1s2t3u4v5w6x7y",
+    "input": "Get me a real estate person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "k3l4m5n6-7o8p-9q0r-1s2t-2t3u4v5w6x7y8z",
+    "input": "I need a human representative.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "l4m5n6o7-8p9q-0r1s-2t3u-3u4v5w6x7y8z9a",
+    "input": "Can you connect me with a specialist?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "m5n6o7p8-9q0r-1s2t-3u4v-4v5w6x7y8z9a0b",
+    "input": "I want to get more information from a person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "n6o7p8q9-0r1s-2t3u-4v5w-5w6x7y8z9a0b1c",
+    "input": "Please provide me with a list of available agents.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "o7p8q9r0-1s2t-3u4v-5w6x-6x7y8z9a0b1c2d",
+    "input": "I need to talk to someone ASAP.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "p8q9r0s1-2t3u-4v5w-6x7y-7y8z9a0b1c2d3e",
+    "input": "Can I get a person to give me a call today?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "q9r0s1t2-3u4v-5w6x-7y8z-8z9a0b1c2d3e4f",
+    "input": "I want to hire a real estate professional.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "r0s1t2u3-4v5w-6x7y-8z9a-9a0b1c2d3e4f5g",
+    "input": "How do I find a good agent in this city?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "s1t2u3v4-5w6x-7y8z-9a0b-0b1c2d3e4f5g6h",
+    "input": "I need to set up a time to chat with a person.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "t2u3v4w5-6x7y-8z9a-0b1c-1c2d3e4f5g6h7i",
+    "input": "Can you connect me to an agent that handles luxury properties?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "u3v4w5x6-7y8z-9a0b-1c2d-2d3e4f5g6h7i8j",
+    "input": "I want to request a consultation with a real estate professional.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "v4w5x6y7-8z9a-0b1c-2d3e-3e4f5g6h7i8j9k",
+    "input": "Please have a qualified person contact me about my inquiry.",
+    "intent": "contact_broker"
+  }
+]

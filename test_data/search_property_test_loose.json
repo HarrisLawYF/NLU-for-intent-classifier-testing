@@ -1,0 +1,367 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "input": "How good is the battery on the new Pixel phone?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "input": "Will the iPhone camera make my photos look professional?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "input": "Can I actually use the Samsung tablet all day for work?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "input": "My old headphones will work with this new phone, right?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "input": "This sweater, is it going to get all pilly after I wash it?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "input": "Is this gaming laptop gonna be able to run new games smoothly?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
+    "input": "I hate when my clear phone case turns yellow, will this one do that?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-bcdef1234567",
+    "input": "Can you see the screen on this Dell laptop outside?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-cdef12345678",
+    "input": "How much stuff can I actually fit in this backpack?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-def123456789",
+    "input": "Is this TV big enough for my living room?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-ef1234567890",
+    "input": "Are these running shoes comfortable for long distances?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-f12345678901",
+    "input": "This coffee maker won't break in a year, will it?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "Is the sound on this smart speaker any good?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "What's the deal with the fabric on this couch? Is it durable?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "Will my kid be able to break this toy easily?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "How fast can this electric scooter really go?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "Is this pan hard to clean?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Tell me about the camera on the cheaper iPhone.",
+    "intent": "search_property"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "This watch won't give me a rash, right?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "Is this blender super loud?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "How heavy is this laptop to carry around all day?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "Will this air conditioner cool down my whole apartment?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "Are these headphones good at blocking out noise?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "Is this chair actually comfortable to sit in for hours?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "This tent looks complicated, is it hard to set up?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "How does the screen on the new Kindle compare to a real book?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "Is this jacket warm enough for winter?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "Will this phone still get updates in a few years?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "Is the material of this dress breathable for summer?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "How much power does this gaming PC actually use?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "Can I trust this hard drive with my important files?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "Is the picture on this TV sharp?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "This keyboard feels nice, what kind of switches are they?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "Will these boots hold up in the rain?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "How bright does this lamp get?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "Is this car seat easy to install?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "Does this phone feel cheap?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "What's the texture of this skincare product like?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Is this vacuum cleaner good for pet hair?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "How long does it take to charge this device?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "This protein powder tastes chalky?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "Is this office chair ergonomic?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "Can this drone fly in the wind?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "How much space is on this camera's memory card?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "Is this food organic?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "Will this smart watch work without my phone nearby?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "What kind of power adapter do I need for this?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Is the finish on this table easy to scratch?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "How are the speakers on this TV?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "Does this have a lot of sugar?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "Is this bike light bright enough for night riding?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "Will this case protect my phone if I drop it?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "How much memory does the base iPad have?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "Is this material stretchy?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "Can you tell me about the processor in this computer?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "Is this tire good for all seasons?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "How big is the sensor in this camera?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "Does this have bluetooth?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "Is this water filtered?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "What are people saying about the battery life on this?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "Is this easy to put together?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "Tell me about the screen on the new macbook.",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "How does this fabric feel?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "Is this dog toy tough?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "Can this thing connect to my wifi?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "What's the resolution on this monitor like?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "Is this cream greasy?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "How many people can fit in this tent?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Is this safe for kids?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "Does the car have a good sound system?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "How powerful is this hair dryer?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "Is this coffee strong?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "What are the main features of this software?",
+    "intent": "search_property"
+  }
+]

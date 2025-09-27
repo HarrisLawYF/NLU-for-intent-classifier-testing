@@ -1,0 +1,45 @@
+{
+  "name": "llm-router-test-dataset",
+  "version": "1.0.0",
+  "description": "intent classification dataset for testing the robustness of LLM-based intent routing systems",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:watch": "vitest watch",
+    "test:coverage": "vitest --coverage",
+    "create:dataset": "tsx evaluation/scripts/create_dataset_command.ts",
+    "eval:report": "tsx evaluation/scripts/eval_report_command.ts",
+    "langsmith:basic": "tsx evaluation/scripts/langsmith_basic_commands.ts",
+    "show:prompt": "tsx prompts/show_prompt.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bianbianzhu/llm-router-test-dataset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bianbianzhu/llm-router-test-dataset/issues"
+  },
+  "homepage": "https://github.com/bianbianzhu/llm-router-test-dataset#readme",
+  "dependencies": {
+    "@langchain/community": "^0.3.56",
+    "@langchain/core": "^0.3.77",
+    "@langchain/openai": "^0.6.13",
+    "langsmith": "^0.3.69",
+    "openevals": "^0.1.1",
+    "tiktoken": "^1.0.22",
+    "zod": "^4.1.9"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.10",
+    "@types/node": "^24.5.2",
+    "dotenv": "^17.2.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^1.6.0"
+  }
+}

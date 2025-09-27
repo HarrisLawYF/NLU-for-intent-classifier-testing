@@ -1,0 +1,128 @@
+
+[
+  {
+    "id": "f0c7d3b1-5a1e-4f2a-8c3d-8e6f9b4a1c2e",
+    "input": "I need to speak with a broker about a property.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "a2b3c4d5-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+    "input": "Can you connect me with an agent?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "b3c4d5e6-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+    "input": "Please have a broker call me back.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "c4d5e6f7-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+    "input": "How can I schedule a viewing with an agent?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "d5e6f7g8-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+    "input": "I want to talk to a real estate agent.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "e6f7g8h9-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+    "input": "Get me in touch with a broker.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "f7g8h9i0-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+    "input": "I need the contact information for a broker.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "g8h9i0j1-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+    "input": "Can I set up an appointment with a broker?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "h9i0j1k2-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+    "input": "I'd like to arrange a meeting with an agent.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "i0j1k2l3-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+    "input": "Could you provide me with a broker's phone number?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "j1k2l3m4-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+    "input": "I need to find a broker in my area.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "k2l3m4n5-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+    "input": "Is it possible to get an email address for an agent?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "l3m4n5o6-7p8q-9r0s-1t2u-3v4w5x6y7z8a",
+    "input": "I want to ask a broker some questions.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "m4n5o6p7-8q9r-0s1t-2u3v-4w5x6y7z8a9b",
+    "input": "Please connect me to the listing agent.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "n5o6p7q8-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+    "input": "I need to schedule a call with a broker.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "o6p7q8r9-0s1t-2u3v-4w5x-6y7z8a9b0c1d",
+    "input": "Can you find a broker for me?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "p7q8r9s0-1t2u-3v4w-5x6y-7z8a9b0c1d2e",
+    "input": "I'm looking for a broker to help me buy a house.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "q8r9s0t1-2u3v-4w5x-6y7z-8a9b0c1d2e3f",
+    "input": "I need to consult with a real estate professional.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "r9s0t1u2-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+    "input": "Can you arrange for an agent to contact me?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "s0t1u2v3-4w5x-6y7z-8a9b-0c1d2e3f4g5h",
+    "input": "I want to get in touch with the seller's agent.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "t1u2v3w4-5x6y-7z8a-9b0c-1d2e3f4g5h6i",
+    "input": "I need broker details for this listing.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "u2v3w4x5-6y7z-8a9b-0c1d-2e3f4g5h6i7j",
+    "input": "Please forward my information to a broker.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "v3w4x5y6-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+    "input": "I'd like to book a consultation with a broker.",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "w4x5y6z7-8a9b-0c1d-2e3f-4g5h6i7j8k9l",
+    "input": "Can I get the details of a local real estate agent?",
+    "intent": "contact_broker"
+  },
+  {
+    "id": "x5y6z7a8-9b0c-1d2e-3f4g-5h6i7j8k9l0m",
+    "input": "I need to talk to someone about selling my property.",
+    "intent": "contact_broker"
+  }
+]

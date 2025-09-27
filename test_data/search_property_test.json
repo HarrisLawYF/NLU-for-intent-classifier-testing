@@ -1,0 +1,368 @@
+
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "input": "What is the screen size of the latest iPad Pro?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "input": "Does the Google Nest Hub have a camera?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "input": "Tell me the water resistance rating of the Garmin Forerunner 955.",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "input": "How much storage does the base model of the PS5 have?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "input": "Is this North Face jacket insulated with down or synthetic material?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "input": "Is the Nintendo Switch OLED screen made of glass or plastic?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
+    "input": "What version of Bluetooth does the Sony WH-1000XM5 support?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-bcdef1234567",
+    "input": "What are the dimensions of a standard queen size mattress?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-cdef12345678",
+    "input": "Is the frame of the Ray-Ban Wayfarer sunglasses made of acetate?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-def123456789",
+    "input": "How many HDMI ports does the Samsung QN90B TV have?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-ef1234567890",
+    "input": "What is the maximum ISO of the Canon EOS R6?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-f12345678901",
+    "input": "Does this All-Clad pan have a non-stick coating?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "What is the battery capacity of a Tesla Model 3 in kWh?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "Is the display of the MacBook Air a Retina display?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "What type of fabric are these Lululemon leggings made of?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "Does the Weber Spirit grill use propane or natural gas?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "What is the resolution of the webcam on the Microsoft Surface Laptop?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "Is the Stanley tumbler dishwasher safe?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "How much horsepower does the Ford F-150 Raptor have?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "What is the weight of the Dell XPS 13 laptop?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "Does this coffee maker have an automatic shut-off feature?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "What is the fill power of this down comforter?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "Is this external hard drive compatible with a Mac?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "What are the nutritional facts for this brand of almond milk?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "Does this TV support Dolby Vision?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "What is the case diameter of the Rolex Submariner watch?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "Is the KitchenAid stand mixer motor belt-driven or direct-drive?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "What is the GSM of this watercolor paper?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "Does this motherboard have a TPM 2.0 chip?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "What is the maximum aperture of the Sigma 35mm f/1.4 lens?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "Is this backpack made of recycled materials?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "What is the range of the DJI Mini 3 Pro drone?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "Does this electric toothbrush have a pressure sensor?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "What is the noise level in decibels of this air purifier?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "Is this baby car seat FAA approved?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "What is the voltage of this power tool battery?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "Does this tent have a vestibule?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "What is the country of origin for this coffee?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Is this paint oil-based or water-based?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "What is the warranty period for this appliance?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "Does this router support Wi-Fi 6E?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "What is the firmness level of this mattress?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "Is this chocolate gluten-free?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-234567890123",
+    "input": "What is the maximum user weight for this treadmill?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-5678-345678901234",
+    "input": "Does this printer have a scanner?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-6789-456789012345",
+    "input": "What is the material of the watch strap?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-7890-567890123456",
+    "input": "Is this product BPA-free?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-8901-678901234567",
+    "input": "What is the field of view of these binoculars?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-9012-789012345678",
+    "input": "Does this speaker have an aux input?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-0123-890123456789",
+    "input": "What is the SPF rating of this sunscreen?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-901234567890",
+    "input": "Is this dog food grain-free?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-2345-012345678901",
+    "input": "What is the capacity of this slow cooker in quarts?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-3456-123456789012",
+    "input": "Does this phone support dual SIM cards?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-4567-234567890123",
+    "input": "What is the runtime of this vacuum cleaner on a full charge?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-5678-345678901234",
+    "input": "Is this LEGO set age-appropriate for a 5-year-old?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
+    "input": "What is the video resolution of the GoPro HERO11?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-7890-567890123456",
+    "input": "Does this monitor have a VESA mount?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-8901-678901234567",
+    "input": "What is the heel-to-toe drop of these running shoes?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-9012-789012345678",
+    "input": "Is this coffee maker programmable?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-0123-890123456789",
+    "input": "What is the lumen output of this flashlight?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-901234567890",
+    "input": "Is this guitar acoustic or electric?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-012345678901",
+    "input": "What is the concentration of retinol in this serum?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-3456-123456789012",
+    "input": "Does this air fryer require preheating?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-234567890123",
+    "input": "What is the gear ratio of this fishing reel?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-5678-345678901234",
+    "input": "Is this bicycle helmet MIPS certified?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-6789-456789012345",
+    "input": "What is the pH level of this bottled water?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-7890-567890123456",
+    "input": "Does this smart lock work with Amazon Alexa?",
+    "intent": "search_property"
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-8901-678901234567",
+    "input": "What is the temperature range of this oven?",
+    "intent": "search_property"
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-9012-789012345678",
+    "input": "Is this protein powder whey-based or plant-based?",
+    "intent": "search_property"
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-0123-890123456789",
+    "input": "What is the wingspan of this model airplane?",
+    "intent": "search_property"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-901234567890",
+    "input": "Does this keyboard have mechanical switches?",
+    "intent": "search_property"
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-2345-012345678901",
+    "input": "What is the alcohol by volume (ABV) of this beer?",
+    "intent": "search_property"
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-3456-123456789012",
+    "input": "Is this yarn made of wool or acrylic?",
+    "intent": "search_property"
+  }
+]
